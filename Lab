@@ -1,0 +1,31 @@
+<html>
+     <head>
+	     <title>Anime</title>
+		 <link href="Final Lab.css" rel="stylesheet" type="text/css">
+	 </head>
+	 <body id="AB">
+	 <div id="AM">
+	     <h1 id="MT">Anime</h1>
+		 <p> Anime is hand-drawn or computer generated animation originating from Japan. Outside of Japan Anime refers specifically to animation made from Japan. It started popularizing to in the late 90s and early 2000s and is still popular to this day.</p>
+		 <p> Anime has many diffrent genres like romance, drama, fantasy, shonen, etc. </p>
+		 <h2>Shonen</h2>
+		 <p>Shonen anime is the most popular out of any genre. It is basically a genre aimed at young male audience and is usually pretty action-filled. In the shonen categorry there is something named the big three.</p>
+		 <h2>The Big Three</h2>
+		 <p>The big three rferes to 3 animanga that have sold the most mangas throught the years.</p>
+		 <h3>The big three consists of</h3>
+		 <ul>
+		     <li><a href="file:///C:/Users/Hamid/OneDrive/Documents/One%20Piece.html">One Piece</a></li>
+			 <li><a href="file:///C:/Users/Hamid/OneDrive/Documents/Naruto.html">Naruto</a></li>
+			 <li><a href="file:///C:/Users/Hamid/OneDrive/Documents/Bleach.html">Bleach</a></li>
+		 </ul>
+		 <h2>Honoreble mentions</h2>
+		 <p>There other animangas who some people consider to be a part of the big three making it the big four or five, even tho the eras dont match up. Here are these mentions, Dragon Ball, Sailor moon, Demon slayer and more.</p>
+		 <h2>Animangas i would suggest</h2>
+		 <p>Some animes that i think are as good if not better then the ones on the big three are: Berserk, Chainsaw Man, One Punch Man, Demon Slayer and more.
+		 <h3>My own</h3>
+		 <p>Anime has done a big impression on me and it even motivitaed me many times. So one day i startd thinking if i could do the same thing for others and began writing my own Anime. Here it is its called:<a href="file:///C:/Users/Hamid/OneDrive/Documents/My%20own.html">Joryoku</a>.
+         <div id="PS">
+		     <p>P.S. When is say "Animanga" it is just a mix name between <br /> Anime(the animated version) and Manga(the book version).</p>
+		 </div>
+	 </div>
+</html>
